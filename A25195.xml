@@ -1,0 +1,2235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An alphabetical list of the knights, citizens, and burgesses, elected in the year 1698. to sit in Parliament together with an alphabet of the places that have the priviledge of election, with proper numbers and letters for the easie use therof. Note: those which have this mark * before them, were not members of the last Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25195</idno>
+            <idno type="STC">Wing A2899A</idno>
+            <idno type="STC">ESTC R218679</idno>
+            <idno type="EEBO-CITATION">99830250</idno>
+            <idno type="PROQUEST">99830250</idno>
+            <idno type="VID">34700</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25195)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34700)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2088:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An alphabetical list of the knights, citizens, and burgesses, elected in the year 1698. to sit in Parliament together with an alphabet of the places that have the priviledge of election, with proper numbers and letters for the easie use therof. Note: those which have this mark * before them, were not members of the last Parliament.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Jones in the Savoy, and sold by Jacob Tonson in Fleet-Street, and John Nutt near Stationers-Hall,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament. --  House of Commons --  Elections --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament. --  House of Commons --  Election districts --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list">
+            <pb facs="tcp:34700:1" rendition="simple:additions"/>
+            <head>An <hi>Alphabetical LIST</hi> of the Knights, Citizens, and Burgeſſes, Elected in <gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Year 1698. to Sit in Parliament: Together with an <hi>Alphabet</hi> of the <hi>PLACES</hi> that have the Priviledge of Election, with Proper <hi>Numbers</hi> and <hi>Letters</hi> for the Eaſie Uſe thereof.</head>
+            <head type="sub">
+               <hi>Note:</hi> Thoſe which have this Mark ⋆ before them, were not Members of the laſt Parliament.</head>
+            <list>
+               <head>A.</head>
+               <item>38 <hi>SIR</hi> Edward Acton, <hi>Bar.</hi>
+               </item>
+               <item>205 John Aiſlaby, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>18 <hi>Sir</hi> Thomas *Alſton, <hi>Bar.</hi>
+               </item>
+               <item>60 John *Archdale, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>116 William Aſhe, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>116 Edward Aſhe, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>261 <hi>Sir</hi> Henry *Aſhurſt, <hi>Bar.</hi>
+               </item>
+               <item>143 <hi>Sir</hi> William Aſhurſt, <hi>Kt.</hi>
+               </item>
+               <item>198 Henry *Aſhurſt, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>175 <hi>Sir</hi> Jacob Aſtley, <hi>Kt. &amp; Bar.</hi>
+               </item>
+               <item>106 Samuel *Atkinſon, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>209 <hi>Sir</hi> John Auſten, <hi>Bar.</hi>
+               </item>
+               <item>31 <hi>Sir</hi> John *Aubrey, <hi>Bar.</hi>
+               </item>
+               <item>80 Matthew Aylmer, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>103 <hi>Sir</hi> Edward Ayſcoghe, <hi>Kt.</hi>
+               </item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>249 John Back well, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>225 Edward *Baggott, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>161 James *Banke, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>67 John *Bankes <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>231 <hi>Sir</hi> Samuel Barnardiſton, <hi>Bar.</hi>
+               </item>
+               <item>230 Sir Thomas Barnardiſton, <hi>Bar.</hi>
+               </item>
+               <item>125 Samuel *Barnardiſton, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>89 <hi>Sir</hi> Charles Barrington, <hi>Bar.</hi>
+               </item>
+               <item>36 Peter Batiſcomb <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>249 Richard Beke, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>165 <hi>Sir</hi> Henry Bellaſis, <hi>Kt.</hi>
+               </item>
+               <item>169 <hi>Sir</hi> Thomas *Bellot, <hi>Bar.</hi>
+               </item>
+               <item>240 Thomas Bere, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>248 Edward Berkeley, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>262 <hi>The Hon.</hi> James Bertie, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>252 <hi>The Hon.</hi> Robert Bertie, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>227 <hi>The Hon.</hi> Charles Bertie, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>115 Hugh Bethell, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>191 Peter *Betteſworth, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>142 <hi>Sir</hi> Michael Biddulph, <hi>Bar.</hi>
+               </item>
+               <item>251 John Birch, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>178 <hi>Sir</hi> Edward *Blackett, <hi>Bar.</hi>
+               </item>
+               <item>170 <hi>Sir</hi> William Blackett, <hi>Bar.</hi>
+               </item>
+               <item>21 <hi>Sir</hi> Francis *Blake, <hi>Kt.</hi>
+               </item>
+               <item>41 Henry Blaake, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>194 <hi>Sir</hi> John *Bland, <hi>Bar.</hi>
+               </item>
+               <item>15 William Blathwayt, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>149 Thomas *Bliſs, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>179 Thomas Blofeild, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>140 <hi>Sir</hi> John Bolles, <hi>Bar.</hi>
+               </item>
+               <item>30 Edmund *Boulter, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>136 <hi>The Hon.</hi> George Booth, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>68 <hi>The Rt. Hon.</hi> Hugh Boſcawen, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>123 <hi>Sir</hi> Philip Boteler, <hi>Bar.</hi>
+               </item>
+               <item>44 <hi>The Hon.</hi> Henry Boyle, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>266 <hi>Sir</hi> Roger Bradſhaigh, <hi>Bar.</hi>
+               </item>
+               <item>73 Edward Brereton, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>207 John Brewer, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>112 <hi>The Hon.</hi> James *Bridges <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>141 William Bridges, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>266 Orlando *Bridgeman, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>194 John *Bright, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>257 Robert *Briſtow <hi>junior,</hi>
+                  <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>265 William Bromley, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>173 Thomas Brotherton <hi>of</hi> Hey, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>24 <hi>Sir</hi> William Brownlow, <hi>Bar.</hi>
+               </item>
+               <item>202 <hi>Sir</hi> Owen *Buckingham, <hi>Kt.</hi>
+               </item>
+               <item>8 <hi>R. H. Lord Viſcount</hi> Bulkeley.</item>
+               <item>53 <hi>The Hon.</hi> Thomas Bulkeley, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>89 Edward *Bullock, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>208 <hi>Rt. Hon.</hi> John <hi>Lord</hi> Burleigh.</item>
+               <item>147 George *Burrard, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>130 Robert Byerley, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>118 Reynolds *Calthorp, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>83 William Carey, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>170 William Carr, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>134 Laurence *Carter, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>160 <hi>Sir</hi> Charles Carterett, <hi>Kt.</hi>
+               </item>
+               <item>122 Edward *Carteret, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>75 <hi>Rt. H. Lord</hi> Henry Cavendiſh.</item>
+               <item>227 <hi>The H.</hi> William *Cecill, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>154 James Chaſe, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>14 Arthur Champneys, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>234 John *Chetwind, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>2 <hi>Rt. H.</hi> William <hi>Ld.</hi> Cheyne, <hi>Viſc.</hi> Newhaven.</item>
+               <item>39 <hi>Rt. H.</hi> William <hi>Ld.</hi> Cheyne, <hi>Viſc.</hi> Newhaven.</item>
+               <item>76 <hi>Sir</hi> Francis *Child, <hi>Kt.</hi>
+               </item>
+               <item>41 Henry *Chivers, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>224 John *Cholmley, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>3 George Churchill, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>236 Edward Clarke, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>25 <hi>Sir</hi> Robert Clayton, <hi>Kt.</hi>
+               </item>
+               <item>137 William *Clayton, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>241 Thomas *Colſon, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>92 <hi>The Hon.</hi> Spencer Compton, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>135 <hi>Rt. H.</hi> Thomas <hi>Ld.</hi> Coningsby.</item>
+               <item>93 <hi>Sir</hi> John Conway, <hi>Bar.</hi>
+               </item>
+               <item>104 John Conyers, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>86 Thomas *Conyers, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>175 <hi>Sir</hi> William *Cooke, <hi>Bar.</hi>
+               </item>
+               <item>5 <hi>Sir</hi> George *Cooke, <hi>Bar.</hi>
+               </item>
+               <item>66 <hi>Sir</hi> Thomas *Cooke, <hi>Kt.</hi>
+               </item>
+               <item>10 John *Cooke, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>74 Thomas *Cooke, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>114 <hi>Sir</hi> William Cowper, <hi>Bar.</hi>
+               </item>
+               <item>114 William Cowper, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>239 <hi>Sir</hi> Godfrey Copley, <hi>Bar.</hi>
+               </item>
+               <item>61 <hi>Rt. H.</hi> Edw. <hi>L. Viſ.</hi> Cornbury.</item>
+               <item>219 Henry *Corniſh, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>111 Henry *Cornwall, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>127 <hi>Sir</hi> William Coryton, <hi>Bar.</hi>
+               </item>
+               <item>56 <hi>Sir</hi> Robert Cotton, <hi>Bar.</hi>
+               </item>
+               <item>172 <hi>Sir</hi> Robert Cotton, <hi>Kt.</hi>
+               </item>
+               <item>43 <hi>Sir</hi> John Cotron, <hi>Bar.</hi>
+               </item>
+               <item>77 Francis Courtenay, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>248 William Coward, <hi>Serj. at Law.</hi>
+               </item>
+               <item>99 <hi>Sir</hi> Richard *Cocks, <hi>Bar.</hi>
+               </item>
+               <item>82 Charles Cocks, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>62 Charles *Cox, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>224 Charles Cox, <hi>of</hi> Southwark, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>35 George *Crane, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>199 Robert Crawford, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>193 Courtney Croker, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>42 <hi>Sir</hi> Ruſhout Cullen, <hi>Bar.</hi>
+               </item>
+               <item>67 William Culliford, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>42 <hi>Rt. H.</hi> John <hi>Lord</hi> Cutts.</item>
+               <item>172 <hi>Rt. H.</hi> John <hi>Lord</hi> Cutts.</item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>202 John *Dalby, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>5 <hi>Sir</hi> Abſtrupus *Darby, <hi>Kt.</hi>
+               </item>
+               <item>204 James *Darcy, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>141 Henry Darrel, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>106 <hi>Sir</hi> Thomas Davall, <hi>Kt.</hi>
+               </item>
+               <item>19 Charles *Davenant, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>88 Sir Robert Davers, <hi>Bar.</hi>
+               </item>
+               <item>179 Robert *Davy, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>37 Sir Thomas Day, <hi>Kt.</hi>
+               </item>
+               <item>40 Alexander Denton, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>123 Jacob Desbouvery, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>167 Price Devereux, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>80 <hi>Sir</hi> Bazil Dixwell, <hi>Bar.</hi>
+               </item>
+               <item>147 Thomas Dore, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>237 Richard Dowdeſwell, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>269 <hi>R. H.</hi> Henry <hi>L. Viſ.</hi> *Downe.</item>
+               <item>235 <hi>Hon. Sir</hi> Francis Drake, <hi>Bar.</hi>
+               </item>
+               <item>119 <hi>Sir</hi> William Drake, <hi>Kt. &amp; Bar.</hi>
+               </item>
+               <item>11 Richard Duke <hi>jun.</hi>
+                  <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>115 Anthony *Duncomb, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>139 <hi>The Hon.</hi> Charles *Dymoke <hi>of</hi> Scrivelsby, <abbr>
+                     <hi>Eſ</hi>
+                  </abbr>
+               </item>
+               <item>142 Richard *Dyot, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+            </list>
+            <list>
+               <head>E.</head>
+               <item>85 <hi>Sir</hi> Robert *Eden, <hi>Bar.</hi>
+               </item>
+               <item>31 <hi>The Hon.</hi> Charles Egerton, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>117 Thomas *Ekins, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>97 Daniel Elliot, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>102 <hi>Sir</hi> William Ellis, <hi>Bar.</hi>
+               </item>
+               <item>267 George England, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>197 Thomas Erle, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>260 <hi>Sir</hi> Edward Ernle, <hi>Bar.</hi>
+               </item>
+               <item>154 <hi>Sir</hi> James Etheredge, <hi>Kt.</hi>
+               </item>
+               <item>61 William Ettricke, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>81 John Eyre, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>215 Robert *Eyre, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>180 Gervaſe *Eyre, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>228 <hi>Sir</hi> John Fagg, <hi>Bar.</hi>
+               </item>
+               <item>269 <hi>R. H.</hi> Thomas <hi>Lord</hi> Fairtax.</item>
+               <item>58 <hi>Sir</hi> Richard *Farringdon, <hi>Bar.</hi>
+               </item>
+               <item>183 <hi>Sir</hi> Thomas Felton, <hi>Bar.</hi>
+               </item>
+               <item>259 <hi>Rt. H.</hi> John <hi>L. Viſc.</hi> Firzharding.</item>
+               <item>143 <hi>Sir</hi> John Fleet, <hi>Kt.</hi>
+               </item>
+               <item>254 William Flening, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>71 <hi>Sir</hi> George Flether, <hi>Bar.</hi>
+               </item>
+               <item>65 George *Flether, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>112 Paul Foley <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>226 Philip Foley, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>226 Thomas Foley <hi>jun. of</hi> Witley, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>82 Thomas Foley <hi>jun.</hi>
+                  <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>251 Thomas Foley <hi>of</hi> Stoke, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>250 <hi>Sir</hi> William Foreſter, <hi>Kt.</hi>
+               </item>
+               <item>20 <hi>Sir</hi> Humphry For<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, <hi>Bar.</hi>
+               </item>
+               <item>178 William For<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>243 Hugh Foreſcue, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>70 Charles Fox <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>215 Charles Fox <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>239 <hi>Sir</hi> Thomas Frankland, <hi>Bar.</hi>
+               </item>
+               <item>113 Ralph Freman <hi>Jun.</hi>
+                  <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>79 Thomas Frele, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>156 Thomas Frele, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>127 Francis *Fullord, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>32 <hi>Sir</hi> Henry *Fureſe, <hi>Kt.</hi>
+               </item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>2 <hi>Sir</hi> John *Garard, <hi>Bar.</hi>
+               </item>
+               <item>261 John Gantlett, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>131 <hi>The Hon.</hi> Fitton Gerard, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>185 <hi>Sir</hi> William *Glyn, <hi>Bar.</hi>
+               </item>
+               <item>45 Dennis *Gly, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>60 Charles Go<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rey, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>110 Charles Goolphin, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>110 Sklney *Goolphin, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>28 <hi>Rt. Hon. Sir</hi> Henry Godrick, <hi>Bar.</hi>
+               </item>
+               <item>111 Henry *Goges <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>17 <hi>Sir</hi> William *Gowick, <hi>Kt. &amp; Bar.</hi>
+               </item>
+               <item>108 Peter *Go, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>169 <hi>Sir</hi> John Leveſon Go<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, <hi>Bar.</hi>
+               </item>
+               <item>144 William *Go<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>95 <hi>Sir</hi> Bevil Graville, <hi>Kt.</hi>
+               </item>
+               <item>171 <hi>The Hon.</hi> John Graville, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>153 William *Gre<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nfeild, <hi>Gent.</hi>
+               </item>
+               <item>247 <hi>The Hon.</hi> Robert *Gr<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ill, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>3 <hi>Sir</hi> Samuel Gri<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ſton, <hi>Bar.</hi>
+               </item>
+               <item>57 <hi>Sir</hi> Thomas Groſvenor, <hi>Bar.</hi>
+               </item>
+               <item>234 Thomas Guy, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>27 <hi>Sir</hi> Rowland Gwynne, <hi>Kt.</hi>
+               </item>
+               <item>33 <hi>Sir</hi> Rowland Gwynne, <hi>Kt.</hi>
+               </item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>69 <hi>Sir</hi> Chriſtopher *Hales, <hi>Bar.</hi>
+               </item>
+               <item>208 Richard *Halford, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>113 Thomas Halſey <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>44 Anthony Hammond, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>237 Charles *Hancock <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>1 Simon Harcourt, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>25 <hi>The Hon.</hi> Hugh *Hare, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>201 Robert Harley, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>135 Edward Harley <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>200 Thomas *Harley, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>182 William *Harris, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>74 <hi>R. H.</hi> Will. <hi>L. Mar.</hi> Hartington.</item>
+               <item>150 <hi>Sir</hi> Eliab Harvey, <hi>Kt.</hi>
+               </item>
+               <item>210 Stephen *Harvey, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>88 John Harvey, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>156 Michael Harvey, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>216 William Harvey, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>27 <hi>Sir</hi> John Hawles, <hi>Kt.</hi>
+               </item>
+               <item>162 <hi>Sir</hi> John Hawles, <hi>Kt.</hi>
+               </item>
+               <item>257 John *Hayes, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>183 Sir Charles *Hedges, <hi>Kt.</hi>
+               </item>
+               <item>7 Anthony *Henley, <hi>of the</hi> Grange, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>146 Henry Henley, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>146 Robert Henley, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>12 <hi>The Hon.</hi> James Herbert, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>144 Francis *Herbert, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>63 <hi>Sir</hi> Joſeph Herne, <hi>Kt.</hi>
+               </item>
+               <item>63 Frederick *Herne, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>84 Henry Heveningham, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>132 Robert *Heyſham, <hi>Merchant.</hi>
+               </item>
+               <item>203 <hi>Sir</hi> Willoughby *Hickman, <hi>Bar.</hi>
+               </item>
+               <item>83 <hi>Rt. H.</hi> Henry <hi>Lord</hi> Hyde.</item>
+               <item>35 Roger Hoare, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>26 John Hoblyn, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>268 Henry Holmes, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>14 Nicholas Hooper, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>69 Richard *Hopkins, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>174 Thomas *Hopſon, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>217 <hi>Sir</hi> Charles Hotham, <hi>Bar.</hi>
+               </item>
+               <item>143 <hi>Sir</hi> James *Houblon, <hi>Kt.</hi>
+               </item>
+               <item>118 <hi>Sir</hi> James *Howe, <hi>Bar.</hi>
+               </item>
+               <item>99 John How, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>165 <hi>The Hon.</hi> Philip *Howard, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>55 Thomas Howard, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>50 William Howard, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>228 <hi>Sir</hi> Edward Hungerford, <hi>K. of the Bath.</hi>
+               </item>
+               <item>260 <hi>Sir</hi> George Hungerford, <hi>Kt.</hi>
+               </item>
+               <item>16 Owen *Hughes, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>221 John Hunt, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>6 <hi>Sir</hi> William Huſler, <hi>Kt.</hi>
+               </item>
+               <item>140 <hi>Sir</hi> Edward *Huſſey, <hi>Bar.</hi>
+               </item>
+            </list>
+            <list>
+               <head>I.</head>
+               <item>92 Sir Joſ. Jekyll, <hi>Kt.</hi>
+               </item>
+               <item>205 Jonathan Jenings, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>270 Tobias Jenkins <hi>jun.</hi>
+                  <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>184 <hi>Sir</hi> Robert Jenkinſon, <hi>Bar.</hi>
+               </item>
+               <item>222 Thomas *Jervoiſe, de Herriard, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>4 Sir Henry Johnſon, <hi>Kt.</hi>
+               </item>
+               <item>4 William Johnſon, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>195 William *Jolliffe, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>62 Henry *Ireton <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>217 <hi>R.H.</hi> Arthur <hi>L. Viſ.</hi> Irwyn.</item>
+               <item>13 James *Iſaacſon, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>176 <hi>Sir</hi> Juſtinian Iſham, <hi>Bar.</hi>
+               </item>
+            </list>
+            <list>
+               <head>K.</head>
+               <item>230 Samuel *Kekewich, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>196 James Kendal, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>145 Walter *Kent, <hi>Merchant.</hi>
+               </item>
+               <item>199 Thomas King, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>132 Roger Kirkby, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>10 Chriſtopher *Knight, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>211 Edward Kynaſton, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>212 John Kynaſton, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>159 Warwick *Lake, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>12 <hi>Sir</hi> Thomas Lee, <hi>Bar.</hi>
+               </item>
+               <item>46 Henry Lee, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>173 Thomas *Legh, <hi>of</hi> Ridge, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>211 <hi>Sir</hi> Edward *Leighton, <hi>Bar.</hi>
+               </item>
+               <item>128 <hi>Sir</hi> Stephen *Lennard, <hi>Bar.</hi>
+               </item>
+               <item>252 Richard Lewis, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>48 John Lewis, <hi>of</hi> Coedmore, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>158 John Lewkenor, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>64 Chriſtopher Liſter, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>262 <hi>Rt. H. Sir</hi> Thomas Littleton, <hi>Bar. Speaker.</hi>
+               </item>
+               <item>49 <hi>Sir</hi> Charles *Lloyd, <hi>of</hi> Maes y Velin, <hi>Kt.</hi>
+               </item>
+               <item>218 William Lowndes, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>71 <hi>Sir</hi> John Lowther, <hi>Bar.</hi>
+               </item>
+               <item>50 James Lowther, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>161 Alexander Lutterell, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>45 Henry *Mannaton, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>98 Buſſey Manſell, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>56 <hi>Sir</hi> John Manwaring, <hi>Bar.</hi>
+               </item>
+               <item>149 <hi>Sir</hi> Robert *Marſham, <hi>Kt. &amp; Bar.</hi>
+               </item>
+               <item>24 Charles Maſon, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>120 John Machell, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>242 Philip *Medows, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>76 John Methwen, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>72 <hi>Sir</hi> Richard Middelton, <hi>Bar.</hi>
+               </item>
+               <item>6 Ralph Milbanck, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>58 John *Miller, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>191 Robert Mitchell, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>214 John Mitchell, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>212 Richard *Mitton, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>168 <hi>Sir</hi> Francis Molyneux, <hi>Bar.</hi>
+               </item>
+               <item>198 Thomas Molineux; <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>216 Charles *Mompeſſon, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>103 Arthur Moore, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>246 <hi>Sir</hi> John *Mordaunt, <hi>Bar.</hi>
+               </item>
+               <item>34 Thomas Morgan, <hi>of</hi> Tredegar, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>163 Thomas Morgan, <hi>of</hi> Tredegar, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>268 Anthony Morgan, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>158 <hi>Sir</hi> William Morley, <hi>Kt. of the Bath.</hi>
+               </item>
+               <item>213 John Morris, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>171 John Morris, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>94 Thomas *Morſtyn, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>253 <hi>Rt. Hon.</hi> Charles Mountague, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>86 <hi>The Hon.</hi> Charles Mountagu, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>177 <hi>Hon.</hi> Chriſtopher Montague, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>150 Irby Montague, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>59 Edward *Mountague, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>196 John Mountſtevens, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>185 <hi>Sir</hi> Chriſtopher Muſgrave, <hi>Bar.</hi>
+               </item>
+            </list>
+            <list>
+               <head>N.</head>
+               <item>78 <hi>Sir</hi> Robert *Napier, <hi>Kt. &amp; Bar.</hi>
+               </item>
+               <item>78 Nathaniel Napier, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>157 Hugh Nanny, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>145 Thomas Neale, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>20 Richard Nevile, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>223 <hi>Sir</hi> Benjamin Newland, <hi>Kt.</hi>
+               </item>
+               <item>219 Edward Nicholas, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>267 John *Nicholſon, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>186 <hi>Sir</hi> Edward Norreys, <hi>Kt.</hi>
+               </item>
+               <item>184 <hi>R. H.</hi> Montague <hi>L.</hi> Norreys.</item>
+               <item>137 William Norris, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>182 Thomas Northmore, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>222 Richard Norton, <hi>of</hi> Southwic, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>209 Joſeph *Offley, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>21 Samuel Ogle, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>107 <hi>Sir</hi> Theophilus *Oglethorpe, <hi>Kt.</hi>
+               </item>
+               <item>232 <hi>Sir</hi> Richard Onſlow, <hi>Bar.</hi>
+               </item>
+               <item>105 Foot Onſlow, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>233 Robert *Orme, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>104 <hi>R. H.</hi> Lyonel <hi>E. of</hi> *Orrery.</item>
+               <item>129 Charles Osborne, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>187 Arthur Owen, <hi>of</hi> Creylton, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>128 <hi>Sir</hi> James *Oxenden, <hi>Kt. &amp; Bar.</hi>
+               </item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>264 Sir John *Packington.</item>
+               <item>225 <hi>The Hon.</hi> Henry Pagett, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>152 William Palmes, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>143 Thomas Papillon, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>90 Sir Henry Parker, <hi>Bar.</hi>
+               </item>
+               <item>176 John *Parkhurſt, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>151 Edward *Pauncefort, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>138 Thomas Pelham, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>138 Henry Pelham, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>220 John Perry, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>221 <hi>Sir</hi> Edward *Phelipps, <hi>Kt.</hi>
+               </item>
+               <item>188 <hi>Sir</hi> John Philips, <hi>Bar.</hi>
+               </item>
+               <item>124 John *Philips, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>125 Richard Philips, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>195 William *Phippard, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>43 <hi>Sir</hi> Henry *Pickering, <hi>Bar.</hi>
+               </item>
+               <item>181 William Pierrepoint, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>9 <hi>The Hon.</hi> Gervaſe *Pierrepoint, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>36 Alexander *Pitfeild <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>229 George *Pitt, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>245 George *Pitt, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>70 Edward *Pleydell, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>29 <hi>Sir</hi> John *Pole, <hi>Bar.</hi>
+               </item>
+               <item>15 Alexander Popham, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>236 Henry Portman, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>162 John Povey, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>258 <hi>R. H. Ld.</hi> William Powlett.</item>
+               <item>126 James Praed, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>164 Henry *Probert, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>121 John *Proby <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>251 Robert Price, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>108 John Pulteney, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>244 Richard *Pye, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>263 Henry Pynnill, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+            </list>
+            <list>
+               <head>R.</head>
+               <item>153 <hi>R. H.</hi> Richard <hi>E. of</hi> Ranelagh.</item>
+               <item>105 Morgan Randyll, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>81 Carew *Rawleigh, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>66 <hi>Sir</hi> Iſaac Rebow, <hi>Kt.</hi>
+               </item>
+               <item>84 <hi>Sir</hi> Robert Rich, <hi>Kt. &amp; Bar.</hi>
+               </item>
+               <item>100 <hi>Sir</hi> William Rich <hi>Bar.</hi>
+               </item>
+               <item>193 Martin *Rider, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>242 <hi>The Hon.</hi> Francis Robarts, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>26 <hi>The Hon.</hi> Ruſſel Robarts, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>270 <hi>Sir</hi> William *Robinſon.</item>
+               <item>192 John *Rogers <hi>ſen. Marchant.</hi>
+               </item>
+               <item>77 Samuel Roll, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>197 <hi>Sir</hi> George *Rooke, <hi>Kt.</hi>
+               </item>
+               <item>186 Thomas Rowney, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>51 <hi>Sir</hi> Rice Rudd, <hi>Bar.</hi>
+               </item>
+               <item>90 John Rudge, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>17 <hi>R. H. Lord</hi> Edward Ruſſell.</item>
+               <item>256 <hi>Rt. H. Lord</hi> James Ruſſel.</item>
+               <item>235 <hi>The Hon.</hi> Robert Ruſſell, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>263 Henry St. John, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>190 Francis *St. John, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>129 <hi>Sir</hi> William St. Quintin, <hi>Bar.</hi>
+               </item>
+               <item>168 <hi>The Hon.</hi> James *Sanderſon, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>254 <hi>Sir</hi> Richard Sanford, <hi>Bar.</hi>
+               </item>
+               <item>46 George Sayer, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>101 <hi>Sir</hi> William Scawen, <hi>Kt.</hi>
+               </item>
+               <item>100 William *Selwyn, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>220 Charles *Sergiſon, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>241 <hi>Sir</hi> Edward Seymour, <hi>Bar.</hi>
+               </item>
+               <item>91 <hi>Sir</hi> Edward Seymour, <hi>Bar.</hi>
+               </item>
+               <item>65 William *Seymour, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>57 Peter Shakerley, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>255 Arthur *Shallit, <hi>Merchant.</hi>
+               </item>
+               <item>206 <hi>Sir</hi> Cloudeſly Shovell, <hi>Kt.</hi>
+               </item>
+               <item>91 <hi>Sir</hi> Bartholom. *Shower, <hi>Kt.</hi>
+               </item>
+               <item>246 <hi>Sir</hi> Charles *Shuckburgh, <hi>Bar.</hi>
+               </item>
+               <item>207 <hi>Sir</hi> Charles Sedley, <hi>Bar.</hi>
+               </item>
+               <item>181 Richard Slater, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>238 James Sloane, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>7 <hi>The Rt. Hon.</hi> John Smith, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>223 John *Smith, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>213 John Specot, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>68 John Speccot, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>240 <hi>Rt. H.</hi> Charles <hi>Ld.</hi> Spencer.</item>
+               <item>18 William. Spencer, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>131 <hi>The Hon.</hi> James Stanley, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>28 <hi>Sir</hi> Brian *Stapleton, <hi>Bar.</hi>
+               </item>
+               <item>11 William Stawell, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>130 Chriſtopher Stockdale, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>19 Francis Stonehouſe, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>47 <hi>Sir</hi> Edward *Stradling.</item>
+               <item>79 Thomas Strangewages, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>64 Thomas *Stringer, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>229 Anthony Sturt, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>265 Samuel Swift, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>97 John Tanner, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>101 John Tanner, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>255 Philip Taylor, <hi>Merchant.</hi>
+               </item>
+               <item>40 <hi>Sir</hi> Richard Temple, <hi>Bar.</hi>
+               </item>
+               <item>218 <hi>Sir</hi> William Thomas, <hi>Bar.</hi>
+               </item>
+               <item>233 <hi>Sir</hi> William Thomas, <hi>Bar.</hi>
+               </item>
+               <item>96 Maurice Thompſon, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>102 <hi>Sir</hi> John Thorold, <hi>Bar.</hi>
+               </item>
+               <item>203 John Thornhaugh, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>121 Robert *Throckmorton, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>214 John Thurbarne, <hi>Serj. at Law.</hi>
+               </item>
+               <item>210 Edward *Thurland, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>177 William *Thursby, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>258 Frederick Tilney, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>244 <hi>Sir</hi> Thomas Tipping, <hi>Bar.</hi>
+               </item>
+               <item>231 <hi>Sir</hi> Ly<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nel *Tolmach, <hi>Bar. Earl of</hi> Dyſert.</item>
+               <item>259 Richard *Topham, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>160 <hi>Sir</hi> Thomas Tr<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>ll <hi>Kt.</hi>
+               </item>
+               <item>136 Samuel Travers, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>155 <hi>Sir</hi> Joſeph *Tredenham, <hi>Kt.</hi>
+               </item>
+               <item>155 John Tredenham, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>189 Samuel *Trefuſis, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>29 John Tregagle, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>192 <hi>The Hon.</hi> Charles Trelawney, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>87 Charles Trelawney <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>87 Henry Trelawney, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>245 Thomas Trenchard, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>96 Thomas Turgis, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>148 <hi>Sir</hi> John Turner, <hi>Kt.</hi>
+               </item>
+               <item>148 <hi>Sir</hi> Charles Turner, <hi>Kt.</hi>
+               </item>
+            </list>
+            <list>
+               <head>V.</head>
+               <item>85 Lyonel *Vane, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>52 Richard Vaughan, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>166 Edward Vaughan, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>133 <hi>The Hon.</hi> John Verney, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>253 <hi>The Rt. Hon.</hi> James Vernon, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>189 <hi>The Rt. Hon.</hi> James Vernon, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>107 George *Vernon, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>75 George *Vernon, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>134 <hi>Sir</hi> William *Villiers, <hi>Bar.</hi>
+               </item>
+               <item>243 Henry Vincent, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>95 Thomas Vivian, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+            </list>
+            <list>
+               <head>W.</head>
+               <item>247 <hi>Sir</hi> Thomas *Wagſtaffe, <hi>Kt.</hi>
+               </item>
+               <item>55 Robert Walpole, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>264 William *Walſh, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>9 <hi>Sir</hi> John Walter, <hi>Bar.</hi>
+               </item>
+               <item>22 <hi>Sir</hi> Michael Warton, <hi>Kt.</hi>
+               </item>
+               <item>22 Ralph Warton, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>250 George Weld, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>32 William *Weſtbrook, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>232 John *Weſton, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>39 <hi>The Hon.</hi> Goodwyn Wharton, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>139 George *Whitchcott, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>59 Walter White, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>38 <hi>Sir</hi> William Whitmore, <hi>Bar.</hi>
+               </item>
+               <item>151 Michael *Wicks, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>133 John *Wilkins, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>163 <hi>Sir</hi> John *Williams, <hi>Bar.</hi>
+               </item>
+               <item>206 <hi>Rt. Hon. Sir</hi> Joſeph Williamſon, <hi>Kt.</hi>
+               </item>
+               <item>238 <hi>Rt. Hon. Sir</hi> Joſeph Williamſon, <hi>Kt.</hi>
+               </item>
+               <item>180 <hi>Sir</hi> Thomas *Willoughby, <hi>Bar.</hi>
+               </item>
+               <item>124 <hi>Sir</hi> Francis Wyndham, <hi>Bar.</hi>
+               </item>
+               <item>126 <hi>Sir</hi> Charles Windham, <hi>Bar.</hi>
+               </item>
+               <item>23 Saloway Wynnington, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>109 <hi>Sir</hi> William Wogan, <hi>Kt.</hi>
+               </item>
+               <item>159 <hi>Sir</hi> John Wolſtenholme, <hi>Bar.</hi>
+               </item>
+               <item>256 Richard Woollaſton, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>174 James Worſley, <hi>of</hi> Pylewell, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>152 Thomas *Worſley, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>190 <hi>The Hon.</hi> Sidney Wortley, <hi>al.</hi> Montague, <hi>E;</hi>
+               </item>
+               <item>122 Francis Wortley, <hi>al.</hi> Montague, <hi>E;</hi>
+               </item>
+               <item>54 <hi>Sir</hi> John *Wynne, <hi>Kt. &amp; Bar.</hi>
+               </item>
+               <item>30 Richard *Wynne, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+            </list>
+            <list>
+               <head>Y.</head>
+               <item>37 Robert Yate, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>120 Henry Yates, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+               <item>119 <hi>Sir</hi> Walter Yonge, <hi>Bar.</hi>
+               </item>
+               <item>204 Thomas Yorke, <abbr>
+                     <hi>Eſq</hi>
+                  </abbr>
+               </item>
+            </list>
+         </div>
+         <div type="explanation_of_lists">
+            <head>Explanation of the Two LISTS.</head>
+            <p>
+               <hi>Note:</hi> THE <hi>Number</hi> ſet before any <hi>Member's Name,</hi> directs to the ſame <hi>Number</hi> in the <hi>Alphabet of Plates,</hi> to know for what <hi>Place</hi> that <hi>Member</hi> ſerves.</p>
+            <p>
+               <hi>Note:</hi> The <hi>Firſt Letters</hi> of the <hi>Members Sir<g ref="char:EOLhyphen"/>names</hi> are ſet againſt every <hi>Place</hi> they ſtand for; and ſerve, together with the <hi>Number</hi> ſet before any <hi>Place</hi>'s <hi>Name,</hi> to ſearch in the other <hi>Alphabet</hi> for the <hi>Members</hi> choſen for that <hi>Place.</hi>
+            </p>
+            <p>
+               <hi>For Example.</hi>
+            </p>
+            <p>N<hi rend="sup">o</hi> 125, <hi>Ipſwich;</hi> Search the ſame <hi>Number</hi> in <hi>B</hi> and P, you will find,
+<list>
+                  <item>N<hi rend="sup">o</hi> 125. <hi>Samuel Barnardiſton,</hi>
+                     <abbr>Eſq</abbr>
+                  </item>
+                  <item>N<hi rend="sup">o</hi> 125. <hi>Richard Philips,</hi>
+                     <abbr>Eſq</abbr>
+                  </item>
+               </list>
+            </p>
+            <p>So of the reſt.</p>
+         </div>
+         <div type="list">
+            <head>An <hi>Alphabetical LIST</hi> of all the <hi>Counties, Cities, Boroughs,</hi> &amp;c.</head>
+            <list>
+               <head>A.</head>
+               <item>1 A Bingdon. <hi>Berks.</hi> H.</item>
+               <item>2 Agmondeſham. <hi>Bucks.</hi> C. G.</item>
+               <item>3 Albans St. <hi>Hertford.</hi> G. C.</item>
+               <item>4 Aldborough. <hi>Suffolk.</hi> J. J.</item>
+               <item>5 Aldborough. <hi>York.</hi> D. C.</item>
+               <item>6 Allerton North <hi>York.</hi> H. M.</item>
+               <item>7 Andover. <hi>Southamp.</hi> S. H.</item>
+               <item>8 Angleſey. <hi>Wales.</hi> B.</item>
+               <item>9 Apulby. <hi>Weſtmorl.</hi> W. P.</item>
+               <item>10 Arundel. <hi>Suſſex.</hi> C. K.</item>
+               <item>11 Aſhburton. <hi>Devon.</hi> S. D.</item>
+               <item>12 Aylisbury. <hi>Bucks.</hi> L. H.</item>
+            </list>
+            <list>
+               <head>B.</head>
+               <item>13 Banbury. <hi>Oxon.</hi> I.</item>
+               <item>14 Barnſtaple. <hi>Devon.</hi> H. C.</item>
+               <item>15 Bath. <hi>Somerſet.</hi> B. P.</item>
+               <item>16 Beaumaris. <hi>Wales.</hi> H.</item>
+               <item>17 Bedford <hi>County.</hi> R. G.</item>
+               <item>18 Bedford <hi>Town.</hi> A. S.</item>
+               <item>19 Bedwin Great. <hi>Wilts.</hi> S. D.</item>
+               <item>20 Berks. N. F.</item>
+               <item>21 Berwick <hi>upon</hi> Tweed. <hi>Northumb.</hi> B. O.</item>
+               <item>22 Beverly. <hi>York.</hi> W. W.</item>
+               <item>23 Bewdley. <hi>Worceſter.</hi> W.</item>
+               <item>24 Biſhop's-Caſtle. <hi>Salop.</hi> B. M.</item>
+               <item>25 Blechingly. <hi>Surrey.</hi> C. H.</item>
+               <item>26 Bodmin. <hi>Cornwal.</hi> R. H.</item>
+               <item>27 Boralſton. <hi>Devon.</hi> H. G.</item>
+               <item>28 Borough-brigg. <hi>York.</hi> G. S.</item>
+               <item>29 Boſſiney. <hi>Cornwal.</hi> P. T.</item>
+               <item>30 Boſton. <hi>Lincoln.</hi> B. W.</item>
+               <item>31 Brackley. <hi>Northamp.</hi> A. E.</item>
+               <item>32 Bramber. <hi>Suſſex.</hi> F. W.</item>
+               <item>33 Brecon <hi>County. Wales.</hi> G.</item>
+               <item>34 Brecon <hi>Town. Wales.</hi> M.</item>
+               <item>35 Bridgwater. <hi>Somerſet.</hi> C. H.</item>
+               <item>36 Bridport. <hi>Dorſet.</hi> B. P.</item>
+               <item>37 Briſtol. <hi>Somerſet.</hi> D. Y.</item>
+               <item>38 Bruges, <hi>or</hi> Bridgnorth. <hi>Salop.</hi> W. A.</item>
+               <item>39 Bucks <hi>County.</hi> W. C.</item>
+               <item>40 Bucks <hi>Town.</hi> T. D.</item>
+            </list>
+            <list>
+               <head>C.</head>
+               <item>41 Calne. <hi>Wilts.</hi> B. C.</item>
+               <item>42 Cambridge <hi>County.</hi> C. C.</item>
+               <item>43 Cambridge <hi>Town.</hi> C. P.</item>
+               <item>44 Cambridge <hi>Univerſity.</hi> B. H.</item>
+               <item>45 Camelford. <hi>Cornwal.</hi> M. G.</item>
+               <item>46 Canterbury. <hi>Kent.</hi> S. L.</item>
+               <item>47 Cardiffe. <hi>Wales.</hi> S.</item>
+               <item>48 Cardigan <hi>County. Wales.</hi> L.</item>
+               <item>49 Cardigan <hi>Town. Wales.</hi> L.</item>
+               <item>50 Carliſle. <hi>Cumberl.</hi> H. L.</item>
+               <item>51 Carmarthen <hi>County. Wales.</hi> R.</item>
+               <item>52 Carmarthen <hi>Town. Wales.</hi> U.</item>
+               <item>53 Carnarvan <hi>County. Wales.</hi> B.</item>
+               <item>54 Carnarvan <hi>Town. Wales.</hi> W.</item>
+               <item>55 Caſtle-riſing. <hi>Norfolk.</hi> W. H.</item>
+               <item>56 Cheſter <hi>County:</hi> M. C.</item>
+               <item>57 Cheſter <hi>City.</hi> G. S.</item>
+               <item>58 Chicheſter. <hi>Suſſex.</hi> F. M.</item>
+               <item>59 Chippenham. <hi>Wilts.</hi> W. M.</item>
+               <item>60 Chipping-wicomb. <hi>Bucks.</hi> G. A.</item>
+               <item>61 Chriſt-church. <hi>Southamp.</hi> C. E.</item>
+               <item>62 Cirenceſter. <hi>Glouceſter.</hi> I. C.</item>
+               <item>63 Clifton, Dartmouth, <hi>&amp;c. Devon.</hi> H. H.</item>
+               <item>64 Clithero. <hi>Lancaſter.</hi> L. S.</item>
+               <item>65 Cockermouth. <hi>Cumberl.</hi> S. F.</item>
+               <item>66 Colcheſter. <hi>Eſſex.</hi> R. C.</item>
+               <item>67 Corſe-Caſtle. <hi>Dorſet.</hi> C. B.</item>
+               <item>68 Cornwal. B. S.</item>
+               <item>69 Coventry. <hi>Warwick.</hi> H. H.</item>
+               <item>70 Cricklade. <hi>Wilts.</hi> F. P.</item>
+               <item>71 Cumberland. F. L.</item>
+            </list>
+            <list>
+               <head>D.</head>
+               <item>72 Denbigh <hi>County. Wales.</hi> M.</item>
+               <item>73 Denbigh <hi>Town. Wales.</hi> B.</item>
+               <item>74 Derby <hi>County.</hi> H. C.</item>
+               <item>75 Derby <hi>Town.</hi> C. V.</item>
+               <item>76 Devizes. <hi>Wilts.</hi> M. C.</item>
+               <item>77 Devon <hi>County.</hi> C. R.</item>
+               <item>78 Dorcheſter. <hi>Dorſet.</hi> N. N.</item>
+               <item>79 Dorſet <hi>County.</hi> S. F.</item>
+               <item>80 Dover. <hi>Cinq. Port.</hi> D. A.</item>
+               <item>81 Downe<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>. <hi>Wiſts.</hi> E. R.</item>
+               <item>82 Droitwich. <hi>Worceſter.</hi> C. F.</item>
+               <item>83 Dunhivid, <hi>or</hi> Lanceſt<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>n. <hi>Cornwal.</hi> H. C.</item>
+               <item>84 Dunwich. <hi>Suffolk.</hi> R. H.</item>
+               <item>85 Durham <hi>County.</hi> E. U.</item>
+               <item>86 Durham <hi>City.</hi> M. C.</item>
+            </list>
+            <list>
+               <head>E.</head>
+               <item>87 Eaſtlow. <hi>Cornwal.</hi> T. T.</item>
+               <item>88 Edmondsbury St. <hi>Suffolk,</hi> D. H.</item>
+               <item>89 Eſſex <hi>County.</hi> B. B.</item>
+               <item>90 Eveſham. <hi>Worceſter.</hi> P. R.</item>
+               <item>91 Exeter. <hi>Devon.</hi> S. S.</item>
+               <item>92 Eye. <hi>Suffolk.</hi> C. J.</item>
+            </list>
+            <list>
+               <head>F.</head>
+               <item>93 Flint <hi>County. Wales.</hi> C.</item>
+               <item>94 Flint <hi>Town. Wales.</hi> M.</item>
+               <item>95 Foway. <hi>Cornwal.</hi> G. V.</item>
+            </list>
+            <list>
+               <head>G.</head>
+               <item>96 Gatton. <hi>Surrey.</hi> T. T.</item>
+               <item>97 Germans St. <hi>Cornwal.</hi> E. T.</item>
+               <item>98 Glamorgan <hi>County. Wales.</hi> M.</item>
+               <item>99 Glouceſter <hi>County.</hi> C. H.</item>
+               <item>100 Glouceſter <hi>City.</hi> R. S.</item>
+               <item>101 Grampound. <hi>Cornwal.</hi> S. T.</item>
+               <item>102 Grantham. <hi>Lincoln.</hi> E. T.</item>
+               <item>103 Grimsby Great. <hi>Lincoln.</hi> A. M.</item>
+               <item>104 Grinſted Eaſt. <hi>Suſſex</hi> O. C.</item>
+               <item>105 Guilford. <hi>Surrey.</hi> R. O.</item>
+            </list>
+            <list>
+               <head>H.</head>
+               <item>106 Harwich. <hi>Eſſex.</hi> D. A.</item>
+               <item>107 Haſlemere. <hi>Surrey.</hi> O. V.</item>
+               <item>108 Haſtings. <hi>Cinq. Port.</hi> P. G.</item>
+               <item>109 Haverford-Weſt. <hi>Wales.</hi> W.</item>
+               <item>110 Helſton. <hi>Cornwal.</hi> G. G.</item>
+               <item>111 Hereford <hi>County.</hi> C. G.</item>
+               <item>112 Hereford <hi>City.</hi> F. B.</item>
+               <item>113 Hertford <hi>County.</hi> H. F.</item>
+               <item>114 Hertford <hi>Town.</hi> C. C.</item>
+               <item>115 Heydon. <hi>York.</hi> B. D.</item>
+               <item>116 Heytersbury. <hi>Wilts.</hi> A. A,</item>
+               <item>117 Higham-Ferrars. <hi>Northamp.</hi> E.</item>
+               <item>118 Hindon. <hi>Wilts.</hi> C. H.</item>
+               <item>119 Honiton. <hi>Devon.</hi> Y. D.</item>
+               <item>120 Horſham. <hi>Suſſex.</hi> M. Y.</item>
+               <item>121 Huntingdon <hi>County.</hi> P. T.</item>
+               <item>122 Huntingdon <hi>Town.</hi> W. C.</item>
+               <item>123 Hyeth. <hi>Cinq. Port.</hi> B. D.</item>
+            </list>
+            <list>
+               <head>I.</head>
+               <item>124 Ilcheſter. <hi>Somerſet.</hi> W. P.</item>
+               <item>125 Ipſwich. <hi>Suffolk.</hi> B. P.</item>
+               <item>126 Ives St. <hi>Cornwal.</hi> W. P.</item>
+            </list>
+            <list>
+               <head>K.</head>
+               <item>127 Kellington. <hi>Cornwal.</hi> F. C.</item>
+               <item>128 Kent. O. L.</item>
+               <item>129 Kingſton <hi>upon</hi> Hull. <hi>York.</hi> S. O.</item>
+               <item>130 Knaresborough. <hi>York.</hi> B. S.</item>
+            </list>
+            <list>
+               <head>L.</head>
+               <item>131 Lancaſter <hi>County.</hi> S. G.</item>
+               <item>132 Lancaſter <hi>Town.</hi> K. H.</item>
+               <item>133 Leiceſter <hi>County.</hi> V. W.</item>
+               <item>134 Leiceſter <hi>Town.</hi> V. C.</item>
+               <item>135 Lempſter. <hi>Hereford.</hi> C. H.</item>
+               <item>136 Leſtwithiel. <hi>Cornwal.</hi> B. T.</item>
+               <item>137 Leverpoole. <hi>Lancaſter.</hi> N. C.</item>
+               <item>138 Lewes. <hi>Suſſex.</hi> P. P.</item>
+               <item>139 Lincoln <hi>County.</hi> D. W.</item>
+               <item>140 Lincoln <hi>City.</hi> B. H.</item>
+               <item>141 Leskard. <hi>Cornwal.</hi> B. D.</item>
+               <item>142 Litchfield. <hi>Stafford.</hi> B. D.</item>
+               <item>143 London. <hi>Middleſ.</hi> A. F. H. P.</item>
+               <item>144 Ludlow. <hi>Salop.</hi> H. G.</item>
+               <item>145 Lurgerſhall. <hi>Wilts.</hi> N. K.</item>
+               <item>146 Lyme-Regis. <hi>Dorſet.</hi> H. H.</item>
+               <item>147 Lymington. <hi>Southamp.</hi> D. B.</item>
+               <item>148 Lyn-Regis. <hi>Norfolk.</hi> T. T.</item>
+            </list>
+            <list>
+               <head>M.</head>
+               <item>149 Maidſtone. <hi>Kent.</hi> M. B.</item>
+               <item>150 Malden. <hi>Eſſex.</hi> H. M.</item>
+               <item>151 Malmesbury. <hi>Wilts.</hi> P. W.</item>
+               <item>152 Malton. <hi>York.</hi> P. W.</item>
+               <item>153 Marleborough. <hi>Wilts.</hi> R. G.</item>
+               <item>154 Marlow Great. <hi>Bucks.</hi> E. C.</item>
+               <item>155 Mawes St. <hi>Cornwal.</hi> T. T.</item>
+               <item>156 Melcomb-Regis. <hi>Dorſet.</hi> H. F.</item>
+               <item>157 Merioneth <hi>County. Wales.</hi> N.</item>
+               <item>158 Midhurſt. <hi>Suſſex.</hi> M. L.</item>
+               <item>159 Middleſex. W. L.</item>
+               <item>160 Milburn-Porr. <hi>Somerſet.</hi> T. C.</item>
+               <item>161 Minehead. <hi>Somerſet.</hi> L. B.</item>
+               <item>162 Michael St. <hi>Cornwal.</hi> H. P.</item>
+               <item>163 Monmouth <hi>County.</hi> M. W.</item>
+               <item>164 Monmouth <hi>Town.</hi> P.</item>
+               <item>165 Morpeth. <hi>Northumb.</hi> B. H.</item>
+               <item>166 Montgomery <hi>County. Wales.</hi> V.</item>
+               <item>167 Montgomery <hi>Town. Wales.</hi> D.</item>
+            </list>
+            <list>
+               <head>N.</head>
+               <item>168 Newark <hi>upon</hi> Trent. <hi>Nottingh.</hi> M. S.</item>
+               <item>169 Newcaſtle <hi>under</hi> Lyne. <hi>Stafford.</hi> G. B.</item>
+               <item>170 Newcaſtle <hi>upon</hi> Tyne. <hi>Northumb.</hi> C. B.</item>
+               <item>171 Newport. <hi>Cornwal.</hi> M. G.</item>
+               <item>172 Newport, <hi>or</hi> Medena. <hi>Southamp.</hi> C. C.</item>
+               <item>173 Newton. <hi>Lancaſter.</hi> B. L.</item>
+               <item>174 Newtown. <hi>Southamp.</hi> H. W.</item>
+               <item>175 Norſolk. C. A.</item>
+               <item>176 Northampton <hi>County.</hi> I. P.</item>
+               <item>177 Northampton <hi>Town.</hi> M. T.</item>
+               <item>178 Northumberland. B. F.</item>
+               <item>179 Norwith. <hi>Norfolk.</hi> D. B.</item>
+               <item>180 Nottingham <hi>County.</hi> W. E.</item>
+               <item>181 Nottingham <hi>Town.</hi> S. P.</item>
+            </list>
+            <list>
+               <head>O.</head>
+               <item>182 Okehampton. <hi>Devon.</hi> N. H.</item>
+               <item>183 Orford. <hi>Suffolk.</hi> F. H.</item>
+               <item>184 Oxford <hi>County.</hi> N. J.</item>
+               <item>185 Oxford <hi>Univerſity.</hi> M. G.</item>
+               <item>186 Oxford <hi>City.</hi> N. R.</item>
+            </list>
+            <list>
+               <head>P.</head>
+               <item>187 Pembroke <hi>County. Wales.</hi> O.</item>
+               <item>188 Pembroke <hi>Town. Wales.</hi> P.</item>
+               <item>189 Penryn. <hi>Cornwal.</hi> V. T.</item>
+               <item>190 Peterborough. <hi>Northamp.</hi> W. S.</item>
+               <item>191 Petersfield. <hi>Southamp.</hi> M. B.</item>
+               <item>192 Plimouth. <hi>Devon.</hi> R. T.</item>
+               <item>193 Plympton. <hi>Devon.</hi> R. C.</item>
+               <item>194 Pontefract. <hi>York.</hi> B. B.</item>
+               <item>195 Poole. <hi>Dorſet.</hi> J. P.</item>
+               <item>196 Portpigham, <hi>or</hi> Weſtlow. <hi>Cornwal.</hi> K. M.</item>
+               <item>197 Portſmouth. <hi>Southamp.</hi> E. R.</item>
+               <item>198 Preſton. <hi>Lancaſter.</hi> A. M.</item>
+            </list>
+            <list>
+               <head>Q.</head>
+               <item>199 Queerborough. <hi>Kent.</hi> C. K.</item>
+            </list>
+            <list>
+               <head>R.</head>
+               <item>200 Radnor <hi>County. Wales.</hi> H.</item>
+               <item>201 Radnor New <hi>Town. Wales.</hi> H.</item>
+               <item>202 Reading. <hi>Berks.</hi> B. D.</item>
+               <item>203 Retford Eaſt. <hi>Nottingh.</hi> H. T.</item>
+               <item>204 Richmond. <hi>York.</hi> Y. D.</item>
+               <item>205 Rippon. <hi>York.</hi> A. J.</item>
+               <item>206 Rocheſter. <hi>Kent.</hi> W. S.</item>
+               <item>207 Rumney New. <hi>Cinq. Port.</hi> B. S.</item>
+               <item>208 Rutland <hi>County.</hi> B. H.</item>
+               <item>209 Rye. <hi>Cinq. Port.</hi> A. O.</item>
+               <item>210 Ryegate. <hi>Surrey.</hi> H. T.</item>
+            </list>
+            <list>
+               <head>S.</head>
+               <item>211 Salop <hi>County.</hi> L. K.</item>
+               <item>212 Salop <hi>Town.</hi> K. M.</item>
+               <item>213 Saltaſh. <hi>Cornwal.</hi> S. M.</item>
+               <item>214 Sandwich. <hi>Cinq. Port.</hi> M. T.</item>
+               <item>215 Sarum New. <hi>Wilts.</hi> F. E.</item>
+               <item>216 Sarum Old. <hi>Wilts.</hi> M. H.</item>
+               <item>217 Scarborough. <hi>York.</hi> I. H.</item>
+               <item>218 Seaford. <hi>Cinq. Port.</hi> T. L.</item>
+               <item>219 Shaftsbury, <hi>or</hi> Shafton. <hi>Dorſet.</hi> C. N.</item>
+               <item>220 Shoreham New. <hi>Suſſex.</hi> S. P.</item>
+               <item>221 Somerſet <hi>County.</hi> P. H.</item>
+               <item>222 Southampton <hi>County.</hi> N. J.</item>
+               <item>223 Southampton <hi>Town.</hi> N. S.</item>
+               <item>224 Southwark. <hi>Surrey.</hi> C. C.</item>
+               <item>225 Stafford <hi>County.</hi> P. B.</item>
+               <item>226 Stafford <hi>Town.</hi> F. F.</item>
+               <item>227 Stamford. <hi>Lincoln.</hi> B. C.</item>
+               <item>228 Steyninge. <hi>Suſſex.</hi> F. H.</item>
+               <item>229 Stockbridge. <hi>Southamp.</hi> S. P.</item>
+               <item>230 Sudbury. <hi>Suffolk.</hi> B. K.</item>
+               <item>231 Suffolk. B. T.</item>
+               <item>232 Surrey. O. W.</item>
+               <item>233 Suſſex. T. O.</item>
+            </list>
+            <list>
+               <head>T.</head>
+               <item>234 Tamworth. <hi>Stafford.</hi> G. C.</item>
+               <item>235 Taviſtock. <hi>Devon.</hi> R. D.</item>
+               <item>236 Taunton. <hi>Somerſet.</hi> P. C.</item>
+               <item>237 Tewkesbury. <hi>Glouceſter.</hi> D. H.</item>
+               <item>238 Thetford. <hi>Norfolk.</hi> W. S.</item>
+               <item>239 Thirsk. <hi>York.</hi> F. C.</item>
+               <item>240 Tiverton. <hi>Devon.</hi> S. R.</item>
+               <item>241 Totneſs. <hi>Devon.</hi> S. C.</item>
+               <item>242 Tregony. <hi>Cornwal.</hi> R. M.</item>
+               <item>243 Truro. <hi>Cornwal.</hi> F. V.</item>
+            </list>
+            <list>
+               <head>W.</head>
+               <item>244 Wallingford. <hi>Berks.</hi> T. P.</item>
+               <item>245 Wareham. <hi>Dorſet.</hi> T. P.</item>
+               <item>246 Warwick <hi>County.</hi> S. M.</item>
+               <item>247 Warwick <hi>Town.</hi> W. G.</item>
+               <item>248 Wells. <hi>Somerſet.</hi> B. C.</item>
+               <item>249 Wendover. <hi>Bucks.</hi> B. B.</item>
+               <item>250 Wenlock Great. <hi>Salop.</hi> F. W.</item>
+               <item>251 Weobly. <hi>Hereford.</hi> P.F.B.</item>
+               <item>252 Weſtbury. <hi>Wilts.</hi> B. L.</item>
+               <item>253 Weſtminſter. <hi>Middleſex.</hi> M. V.</item>
+               <item>254 Weſtmorland. S. F.</item>
+               <item>255 Weymouth. <hi>Dorſet.</hi> T. S.</item>
+               <item>256 Whitchurch. <hi>Southamp.</hi> R. W.</item>
+               <item>257 Winchelſea. <hi>Cinq. Port.</hi> H. B.</item>
+               <item>258 Wincheſter. <hi>Southamp.</hi> P. T.</item>
+               <item>259 Windſor New. <hi>Berks.</hi> F. T.</item>
+               <item>260 Wilts. H. E.</item>
+               <item>261 Wilton. <hi>Wilts.</hi> A. G.</item>
+               <item>262 Woodſtock New. <hi>Oxon.</hi> L. B.</item>
+               <item>263 Wootten Baſſet. <hi>Wilts.</hi> P. S.</item>
+               <item>264 Worcefter <hi>County.</hi> P. W.</item>
+               <item>265 Worcefter <hi>City.</hi> S. R.</item>
+               <item>266 Wygan. <hi>Lancaſter.</hi> B. B.</item>
+            </list>
+            <list>
+               <head>Y.</head>
+               <item>267 Yarmouth Great. <hi>Norfolk.</hi> E. N.</item>
+               <item>268 Yarmouth. <hi>Southamp.</hi> H. M.</item>
+               <item>269 York <hi>County.</hi> F. D.</item>
+               <item>270 York <hi>City.</hi> R. J.</item>
+            </list>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Edward Jones</hi> in the <hi>Savoy,</hi> and Sold by <hi>Jacob Tonſon</hi> in <hi>Fleet-Street,</hi> and <hi>John Nutt</hi> near <hi>Stationers-Hall,</hi> 1698.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
